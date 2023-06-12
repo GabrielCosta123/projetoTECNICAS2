@@ -9,3 +9,13 @@ O nosso jogo tem como inspiração o jogo ***Space Invaders***.
 **Solution**:
 
 ![image](https://github.com/GabrielCosta123/projetoTECNICAS2/assets/120459962/26219475-10e9-4ea7-addd-ac05c51f1a09)
+
+
+Na solução criamos as seguintes classes: 
+->Enemy;
+->Entity;
+->KeyboardHelper;
+->Ship;
+->Shoot;
+->ShootEnemy;
+Para além das classe ***default*** do Monogame(Game1 e Program).
