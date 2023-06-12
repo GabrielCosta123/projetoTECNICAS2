@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/background.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/Button.png</File>
+    <File>C:/Users/gabri/Downloads/Button.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/enm.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/red_ship.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/shoot.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Button.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
