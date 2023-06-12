@@ -26,3 +26,6 @@ Na solução criamos as seguintes classes:
 ->ShootEnemy;
 
 Para além das classe ***default*** do Monogame(Game1 e Program).
+
+Para jogar o jogo é bastante simples, no teclado a setas para a esquerda e para a direita fazem a nave ir para a esquerda ou para a direita,respetivamente.
+Para atirar nos inimigos utiliza a letra A no teclado.
