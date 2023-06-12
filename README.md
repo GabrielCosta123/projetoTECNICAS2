@@ -6,6 +6,6 @@ Este projeto foi feito no ambito da displina de Técnicas de Desenvolvimento de 
 
 O nosso jogo tem como inspiração o jogo ***Space Invaders***.
 
-##Solution:
+**Solution**:
 
 ![image](https://github.com/GabrielCosta123/projetoTECNICAS2/assets/120459962/26219475-10e9-4ea7-addd-ac05c51f1a09)
