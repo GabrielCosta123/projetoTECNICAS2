@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/sound.mp3</SourceFile>
+  <SourceTime>2023-06-12T20:06:29.1558232+01:00</SourceTime>
+  <DestFile>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/bin/DesktopGL/sound.xnb</DestFile>
+  <DestTime>2023-06-12T20:11:59.3418232+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T12:44:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/bin/DesktopGL/sound.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

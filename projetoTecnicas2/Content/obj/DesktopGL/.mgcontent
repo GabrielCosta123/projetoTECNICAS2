@@ -10,11 +10,13 @@
     <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/enm.png</File>
     <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/red_ship.png</File>
     <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/shoot.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/sound.mp3</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File>Button.png</File>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

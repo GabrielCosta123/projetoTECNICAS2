@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Aulas de Tecnicas De Desenvolvimentos de Videojogos\\projetoTecnicas2\\projetoTecnicas2\\projetoTecnicas2.csproj": {}
+    "E:\\ola\\projetoTECNICAS2\\projetoTecnicas2\\projetoTecnicas2.csproj": {}
   },
   "projects": {
-    "E:\\Aulas de Tecnicas De Desenvolvimentos de Videojogos\\projetoTecnicas2\\projetoTecnicas2\\projetoTecnicas2.csproj": {
+    "E:\\ola\\projetoTECNICAS2\\projetoTecnicas2\\projetoTecnicas2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Aulas de Tecnicas De Desenvolvimentos de Videojogos\\projetoTecnicas2\\projetoTecnicas2\\projetoTecnicas2.csproj",
+        "projectUniqueName": "E:\\ola\\projetoTECNICAS2\\projetoTecnicas2\\projetoTecnicas2.csproj",
         "projectName": "projetoTecnicas2",
-        "projectPath": "E:\\Aulas de Tecnicas De Desenvolvimentos de Videojogos\\projetoTecnicas2\\projetoTecnicas2\\projetoTecnicas2.csproj",
+        "projectPath": "E:\\ola\\projetoTECNICAS2\\projetoTecnicas2\\projetoTecnicas2.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "E:\\Aulas de Tecnicas De Desenvolvimentos de Videojogos\\projetoTecnicas2\\projetoTecnicas2\\obj\\",
+        "outputPath": "E:\\ola\\projetoTECNICAS2\\projetoTecnicas2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

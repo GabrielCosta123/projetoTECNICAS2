@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6lNwh4rknLPwFjR3DLlzy0vYZv7wTlB5TBhjz7geYHs/3A3rlLtucIOv+PZ0Vlnq+VHyzvyZf1RcMuvZVfedWQ==",
+  "dgSpecHash": "bIb53vDo+hZ+bFv4YWiPEv3w+/REt40aoy2t7Yx/bbJ87xfTIt/s6F3yeSrvBpeUL/19hg0u+dIA0cz4IqpHtA==",
   "success": true,
-  "projectFilePath": "E:\\Aulas de Tecnicas De Desenvolvimentos de Videojogos\\projetoTecnicas2\\projetoTecnicas2\\projetoTecnicas2.csproj",
+  "projectFilePath": "E:\\ola\\projetoTECNICAS2\\projetoTecnicas2\\projetoTecnicas2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"

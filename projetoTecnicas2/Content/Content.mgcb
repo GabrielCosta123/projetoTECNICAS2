@@ -85,3 +85,9 @@
 /processorParam:TextureFormat=Color
 /build:shoot.png
 
+#begin sound.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:sound.mp3
+

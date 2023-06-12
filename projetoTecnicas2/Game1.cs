@@ -4,6 +4,7 @@ using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
 using System;
 using System.Reflection.Metadata.Ecma335;
+using Microsoft.Xna.Framework.Media;
 
 namespace projetoTecnicas2
 {
@@ -11,6 +12,8 @@ namespace projetoTecnicas2
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private Song _song;
+        private float _volume = 0.5f;
         Ship ship;
         List<Enemy> listEnemys=new List<Enemy>();
         int lines = 4;
@@ -41,6 +44,10 @@ namespace projetoTecnicas2
             // TODO: use this.Content to load your game content here
             ship = new Ship(this);
             ship.Position = new Vector2(350, 400);
+            // Carrega Sons - Musica
+            _song = Content.Load<Song>("sound");
+            MediaPlayer.Volume = 0.25f;
+            MediaPlayer.Play(_song);
 
             int posX = 0;
             int posY = distanceY;
@@ -70,8 +77,23 @@ namespace projetoTecnicas2
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
+            // Controla o volume da musica
+            if (Keyboard.GetState().IsKeyDown(Keys.W))
+            {
+                _volume += 0.1f;
+            }
+            if (Keyboard.GetState().IsKeyDown(Keys.S))
+            {
+                _volume -= 0.1f;
+            }
+
+            // Garante que o volume fique entre 0 e 1
+            _volume = (float)Math.Clamp(_volume, 0.0, 1.0);
+            // Modifica o volume da música
+            MediaPlayer.Volume = _volume;
+
             // TODO: Add your update logic here
-            if(ship.Enabled)
+            if (ship.Enabled)
             {
                 ship.Update(gameTime);
             }
