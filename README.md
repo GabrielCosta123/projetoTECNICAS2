@@ -17,7 +17,7 @@ Na solução criamos as seguintes classes:
 
 ->Entity;
 
-->KeyboardHelper;
+->KeyboardHelper(Retirado de http://cafecomengine.blogspot.com/search?updated-max=2014-09-04T14:37:00-03:00&max-results=7);
 
 ->Ship;
 
