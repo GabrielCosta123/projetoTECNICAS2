@@ -12,11 +12,12 @@ namespace projetoTecnicas2
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private Texture2D _backgroundTexture;
         private Song _song;
         private float _volume = 0.5f;
         Ship ship;
         List<Enemy> listEnemys=new List<Enemy>();
-        int lines = 4;
+        int lines = 1;
         int columns = 13;
         int distanceX = 50;
         int distanceY = 50;
@@ -28,6 +29,10 @@ namespace projetoTecnicas2
 
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+
+            //_graphics.PreferredBackBufferWidth = 1280;  // set this value to the desired width of your window
+            //_graphics.PreferredBackBufferHeight = 720;   // set this value to the desired height of your window
+            //_graphics.ApplyChanges();
         }
 
         protected override void Initialize()
@@ -44,6 +49,8 @@ namespace projetoTecnicas2
             // TODO: use this.Content to load your game content here
             ship = new Ship(this);
             ship.Position = new Vector2(350, 400);
+
+            _backgroundTexture = Content.Load<Texture2D>("background");
             // Carrega Sons - Musica
             _song = Content.Load<Song>("sound");
             MediaPlayer.Volume = 0.25f;
@@ -61,7 +68,7 @@ namespace projetoTecnicas2
                     Enemy enemy = new Enemy(this);
                     posX += distanceX;
                     enemy.Position= new Vector2(posX, posY);
-                    enemy.Time = random.Next(1000, 20000);
+                    enemy.Time = random.Next(1000, 10000);
                     listEnemys.Add(enemy);
                 }
                 posX= 0;
@@ -76,6 +83,8 @@ namespace projetoTecnicas2
 
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
+
+            
 
             // Controla o volume da musica
             if (Keyboard.GetState().IsKeyDown(Keys.W))
@@ -121,10 +130,17 @@ namespace projetoTecnicas2
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-    
+
 
             // TODO: Add your drawing code here
             _spriteBatch.Begin();
+
+            _spriteBatch.Draw(_backgroundTexture, new Vector2(0, 0), Color.White);
+
+            _spriteBatch.End();
+
+            _spriteBatch.Begin();
+
 
             if (ship.Visible)
             {
@@ -140,6 +156,8 @@ namespace projetoTecnicas2
             {
                 e.Draw(_spriteBatch, gameTime);
             }
+
+            
              
             _spriteBatch.End();
 

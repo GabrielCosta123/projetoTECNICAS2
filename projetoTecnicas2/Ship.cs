@@ -25,11 +25,16 @@ namespace projetoTecnicas2
         {            
             //Verificação das teclas para ações da nave
             if (Keyboard.IsDown(Keys.Right))
+            {
                 Position += new Vector2(5, 0);
+            }
             else if (Keyboard.IsDown(Keys.Left))
+            {
                 Position -= new Vector2(5, 0);
+            }
+                
             
-            if(Keyboard.IsPress(Keys.A))
+            if(Keyboard.IsPress(Keys.Space))
             {
                 Shoot tempShoot = new Shoot(shoot);
                 tempShoot.Position = new Vector2(Position.X + (Texture.Width / 2), Position.Y);

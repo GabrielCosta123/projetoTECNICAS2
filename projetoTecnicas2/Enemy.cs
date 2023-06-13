@@ -17,6 +17,7 @@ namespace projetoTecnicas2
 
         public int Time { get; set; }
 
+
         public Enemy(Game game): base(game) 
         {
             Texture = game.Content.Load<Texture2D>("enm");
@@ -47,6 +48,7 @@ namespace projetoTecnicas2
                     listShoot[x].Update(gameTime);
                 }
             }
+            
 
             base.Update(gameTime);
         }
