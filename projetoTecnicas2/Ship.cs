@@ -1,11 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
+
 
 namespace projetoTecnicas2
 {
@@ -13,10 +17,11 @@ namespace projetoTecnicas2
     {
         Shoot shoot;
         public List<Shoot> listShoot;
+        
 
         public Ship(Game game) : base(game)
         {
-            Texture = game.Content.Load<Texture2D>("red_ship");
+            Texture = game.Content.Load<Texture2D>("naveNormal");
             shoot = new Shoot(game);
             listShoot = new List<Shoot>();
         }
@@ -38,7 +43,7 @@ namespace projetoTecnicas2
             {
                 Shoot tempShoot = new Shoot(shoot);
                 tempShoot.Position = new Vector2(Position.X + (Texture.Width / 2), Position.Y);
-
+                
                 listShoot.Add(tempShoot);
             }
 

@@ -24,9 +24,7 @@ E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoT
 E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\obj\Debug\net6.0\projetoTecnicas2.genruntimeconfig.cache
 E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\obj\Debug\net6.0\ref\projetoTecnicas2.dll
 E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\enm.xnb
-E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\red_ship.xnb
 E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\shoot.xnb
-E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\Button.xnb
 E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\background.xnb
 E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTECNICAS2\projetoTecnicas2\bin\Debug\net6.0\Content\sound.ogg
 E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTECNICAS2\projetoTecnicas2\bin\Debug\net6.0\Content\sound.xnb
@@ -62,3 +60,17 @@ E:\ola\projetoTECNICAS2\projetoTecnicas2\obj\Debug\net6.0\refint\projetoTecnicas
 E:\ola\projetoTECNICAS2\projetoTecnicas2\obj\Debug\net6.0\projetoTecnicas2.pdb
 E:\ola\projetoTECNICAS2\projetoTecnicas2\obj\Debug\net6.0\projetoTecnicas2.genruntimeconfig.cache
 E:\ola\projetoTECNICAS2\projetoTecnicas2\obj\Debug\net6.0\ref\projetoTecnicas2.dll
+E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\8-bit-kit-lazer-5.xnb
+E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\8-bit-kit-explosion-1.xnb
+E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\File.xnb
+E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\startButton.xnb
+E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\naveLeft.xnb
+E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\naveNormal.xnb
+E:\Aulas de Tecnicas De Desenvolvimentos de Videojogos\projetoTecnicas2\projetoTecnicas2\bin\Debug\net6.0\Content\naveRight.xnb
+E:\ola\projetoTECNICAS2\projetoTecnicas2\bin\Debug\net6.0\Content\8-bit-kit-explosion-1.xnb
+E:\ola\projetoTECNICAS2\projetoTecnicas2\bin\Debug\net6.0\Content\8-bit-kit-lazer-5.xnb
+E:\ola\projetoTECNICAS2\projetoTecnicas2\bin\Debug\net6.0\Content\File.xnb
+E:\ola\projetoTECNICAS2\projetoTecnicas2\bin\Debug\net6.0\Content\naveLeft.xnb
+E:\ola\projetoTECNICAS2\projetoTecnicas2\bin\Debug\net6.0\Content\naveNormal.xnb
+E:\ola\projetoTECNICAS2\projetoTecnicas2\bin\Debug\net6.0\Content\naveRight.xnb
+E:\ola\projetoTECNICAS2\projetoTecnicas2\bin\Debug\net6.0\Content\startButton.xnb

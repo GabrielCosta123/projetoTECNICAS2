@@ -4,16 +4,26 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/background.png</File>
-    <File>C:/Users/gabri/Downloads/Button.png</File>
-    <File>E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/enm.png</File>
-    <File>E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/red_ship.png</File>
-    <File>E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/shoot.png</File>
-    <File>E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/sound.mp3</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/8-bit-kit-explosion-1.wav</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/8-bit-kit-lazer-5.wav</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/background.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/enm.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/File.spritefont</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/naveLeft.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/naveNormal.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/naveRight.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/shoot.png</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/sound.mp3</File>
+    <File>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/startButton.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
-    <File>Button.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

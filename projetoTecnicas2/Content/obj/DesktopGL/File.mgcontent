@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/File.spritefont</SourceFile>
+  <SourceTime>2023-06-14T10:25:50.3293556+01:00</SourceTime>
+  <DestFile>E:/Aulas de Tecnicas De Desenvolvimentos de Videojogos/projetoTecnicas2/projetoTecnicas2/Content/bin/DesktopGL/File.xnb</DestFile>
+  <DestTime>2023-06-14T13:05:35.0917549+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T12:44:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

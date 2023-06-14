@@ -3,7 +3,7 @@
   <SourceFile>E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/sound.mp3</SourceFile>
   <SourceTime>2023-06-12T20:06:29.1558232+01:00</SourceTime>
   <DestFile>E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/sound.xnb</DestFile>
-  <DestTime>2023-06-13T15:52:20.9253947+01:00</DestTime>
+  <DestTime>2023-06-14T13:08:50.5519917+01:00</DestTime>
   <Importer>Mp3Importer</Importer>
   <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>SongProcessor</Processor>

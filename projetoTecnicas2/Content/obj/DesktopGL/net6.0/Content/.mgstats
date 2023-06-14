@@ -1,7 +1,12 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/gabri/Downloads/Button.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/Button.xnb","TextureProcessor","Texture2DContent",13786,1263685,0,1315307
-"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/background.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",59862,2668085,0,7096576
-"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/enm.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/enm.xnb","TextureProcessor","Texture2DContent",1022,4405,0,0135528
-"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/red_ship.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/red_ship.xnb","TextureProcessor","Texture2DContent",1112,9761,0,0212335
-"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/shoot.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/shoot.xnb","TextureProcessor","Texture2DContent",910,709,0,0168474
-"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/sound.mp3","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/sound.xnb","SongProcessor","SongContent",5238504,123,3,8978422
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/8-bit-kit-explosion-1.wav","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/8-bit-kit-explosion-1.xnb","SoundEffectProcessor","SoundEffectContent",145190,145177,5,357262
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/8-bit-kit-lazer-5.wav","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/8-bit-kit-lazer-5.xnb","SoundEffectProcessor","SoundEffectContent",80462,80449,0,8066651
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/background.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",59862,2668085,0,1246044
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/enm.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/enm.xnb","TextureProcessor","Texture2DContent",1022,4405,0,0060639
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/File.spritefont","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2070,37919,0,1277791
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/naveLeft.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/naveLeft.xnb","TextureProcessor","Texture2DContent",2529,9413,0,0025298
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/naveNormal.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/naveNormal.xnb","TextureProcessor","Texture2DContent",2582,7225,0,0031418
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/naveRight.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/naveRight.xnb","TextureProcessor","Texture2DContent",2521,9413,0,0028304
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/shoot.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/shoot.xnb","TextureProcessor","Texture2DContent",910,709,0,0075653
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/sound.mp3","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/sound.xnb","SongProcessor","SongContent",5238504,123,3,6791334
+"E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/startButton.png","E:/ola/projetoTECNICAS2/projetoTecnicas2/Content/bin/DesktopGL/Content/startButton.xnb","TextureProcessor","Texture2DContent",13786,1263685,0,0659319
